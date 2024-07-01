@@ -1,7 +1,3 @@
-Based on the content of the `Calculator.py` file, here is a README file for your project:
-
----
-
 # Simple Calculator
 
 A simple calculator application built using Python and Tkinter.
